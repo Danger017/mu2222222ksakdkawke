@@ -1,0 +1,6 @@
+token=NTE4MTYyOTQxNzM2OTEwODQ5.DwhStA.ghj3x7uvWMERR5P-yqXwwneaE9E
+owner=455331653309562910  
+prefix=1
+game=Arrow Server
+stayinchannel=true
+songinstatus=true
